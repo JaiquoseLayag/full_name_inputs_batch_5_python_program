@@ -7,4 +7,5 @@ while True:
     else:
         print("Please enter a valid number.")
 # Format the input into 6 digits
+number = "{:06}".format(i)
 # Print result
