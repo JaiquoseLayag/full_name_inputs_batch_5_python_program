@@ -3,3 +3,4 @@
 # Use .replace() to remove spaces
 full_name = input("Enter your full name: ").title().replace(" ", "")
 # Print result
+print(full_name)
