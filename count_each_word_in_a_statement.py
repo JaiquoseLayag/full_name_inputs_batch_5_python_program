@@ -4,3 +4,4 @@ staement = input("Enter a statement: ").split()
 # Use len() to count the number of words in the list
 count = len(statement)
 # Print the result
+print(count)
