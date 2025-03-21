@@ -3,3 +3,4 @@
 # Use .replace() to replace spaces with underscores (_)
 full_name = input("Enetr your full name: ").lower().replace(" ", "_")
 # Print result
+print(full_name)
