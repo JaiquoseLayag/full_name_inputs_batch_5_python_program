@@ -4,3 +4,4 @@ full_name = input("Enter your full name: ")
 # Use .replace() to remove spaces in the input
 count = len(full_name.replace(" ", ""))
 # Print result
+print(count)
